@@ -1,0 +1,27 @@
+# Arquivos de compilação
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+code/bench
+code/test_platform
+
+# Backups
+backup/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Arquivos temporários
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Documentos auxiliares
+*.docx
+*.pptx
+~$*

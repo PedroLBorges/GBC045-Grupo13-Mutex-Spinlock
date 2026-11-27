@@ -1,0 +1,4 @@
+Thu Nov 26 17:47:51 -03 2026
+Linux desktop-exemplo 6.8.0-51-generic #52-Ubuntu SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
+model name : AMD Ryzen 5 5600G with Radeon Graphics
+governor: performance

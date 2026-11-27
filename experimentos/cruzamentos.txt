@@ -1,0 +1,9 @@
+== linux (8 CPUs) ==
+  secao curta: cruzamento em ~3.8 threads (spinlock deixa de compensar)
+  secao curta: cruzamento em ~4.2 threads (spinlock passa a compensar)
+  secao media: cruzamento em ~1.1 threads (spinlock passa a compensar)
+  secao longa: cruzamento em ~9.0 threads (spinlock deixa de compensar)
+== windows (8 CPUs) ==
+  secao curta: sem cruzamento (spinlock vence em todos os pontos)
+  secao media: cruzamento em ~1.1 threads (spinlock passa a compensar)
+  secao longa: cruzamento em ~8.4 threads (spinlock deixa de compensar)

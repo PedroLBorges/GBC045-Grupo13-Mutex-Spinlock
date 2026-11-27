@@ -1,0 +1,10 @@
+data: Thu Nov 26 17:47:51 2026
+os: linux
+ncpu: 8
+reps: 30
+warmup: 1
+quick: 0
+calibracao_ns_por_iteracao: 1.4197
+secao_curta: alvo_ns=0 iteracoes=0 total_aquisicoes=2000000
+secao_media: alvo_ns=1000 iteracoes=704 total_aquisicoes=500000
+secao_longa: alvo_ns=100000 iteracoes=70435 total_aquisicoes=5000

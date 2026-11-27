@@ -1,0 +1,5 @@
+26/11/2026 20:00:22,81
+
+Microsoft Windows [vers∆o 10.0.26300.10075]
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+NUMBER_OF_PROCESSORS=8
